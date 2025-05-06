@@ -23,5 +23,5 @@ This project explores the concept of using **slow-motion perception** as a base 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/slowmotion-control-system.git
+   git clone https://github.com/chathura-wattegama/slowmotion-control-system.git
    cd slowmotion-control-system
